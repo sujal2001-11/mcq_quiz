@@ -13,4 +13,22 @@
 ![4th](https://github.com/user-attachments/assets/00e6889d-0df1-490f-b058-80317e376c5a)
 
 
-![4th](https://github.com/user-attachments/assets/663e0eac-c783-4544-9c60-d045e213d795)
+![5th](https://github.com/user-attachments/assets/977edd9b-21ef-4ebb-bbfd-c84acaf2ef10)
+
+
+
+
+
+
+## How to run :
+### To run on base env
+1. open terminal
+2. pip install -r requirements.txt
+3. create .env file and add GOOGLE_API_KEY="####### api key here #######"
+4. python3 app.py
+
+### To run on virtual env
+1. conda create -n environment_name
+2. conda activate environmant_name
+3. and follow above steps
+
